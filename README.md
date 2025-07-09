@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessy</h1>
+<h4 align="center"> I am a beginner. Hoping to learn and grow.
 <h3 align="center">A Self-Learning Programmer as a Film Student</h3>
 
 - 🌱 I’m currently learning **Python**
